@@ -2,14 +2,12 @@
 
 ### Hi there 👋 I'm Oleg
 
-<h3 align="center">A passionate frontend developer from Belarus</h3>
-
 <h3>About me</h3>
 <p>I am a Front End developer experienced in building websites and web applications using React. I am constantly developing my skills and learning new technologies</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/%d0%be%d0%bb%d0%b5%d0%b3-%d0%ba%d0%be%d0%bd%d0%be%d0%bd-3a0a75196/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/%d0%be%d0%bb%d0%b5%d0%b3-%d0%ba%d0%be%d0%bd%d0%be%d0%bd-3a0a75196/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/%D0%BE%D0%BB%D0%B5%D0%B3-%D0%BA%D0%BE%D0%BD%D0%BE%D0%BD-3a0a75196/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/%d0%be%d0%bb%d0%b5%d0%b3-%d0%ba%d0%be%d0%bd%d0%be%d0%bd-3a0a75196/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
